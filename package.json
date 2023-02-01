@@ -1,0 +1,25 @@
+{
+  "name": "guess-music-backend",
+  "version": "1.0.0",
+  "description": "Back-End Guess Music App",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanFilipe2000/guess-music-backend.git"
+  },
+  "keywords": [
+    "music",
+    "back-end",
+    "node.js",
+    "axios"
+  ],
+  "author": "DanFilipe2000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanFilipe2000/guess-music-backend/issues"
+  },
+  "homepage": "https://github.com/DanFilipe2000/guess-music-backend#readme"
+}
